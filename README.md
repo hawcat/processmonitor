@@ -1,6 +1,6 @@
-# o3_backend
+# processmonitor
 
-A new Flutter project.
+An interface to monitor process startup.
 
 ## Getting Started
 
